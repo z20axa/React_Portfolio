@@ -1,6 +1,6 @@
 import React from 'react';
 import '../styles/Header.css';
-import imgUrl from './background.png';
+// import imgUrl from './background.png';
 
 // By importing the Header.css file, it is added to the DOM whenever this component loads
 
@@ -12,7 +12,7 @@ import imgUrl from './background.png';
 const styles = {
   headerStyle: {
     background: 'transparent',
-    backgroundImage: 'url(' + imgUrl + ')',
+    // backgroundImage: 'url(' + imgUrl + ')',
   },
   headingStyle: {
     fontSize: '100px',
