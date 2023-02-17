@@ -54,8 +54,7 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 
 ## App GitHub Page Link
 
-- App GitHub Page Link Coming Soon!!!
-<!-- - Please follow [THIS LINK!]() -->
+- Please follow [THIS LINK!](https://z20axa.github.io/React_Portfolio/)
 
 ## App Screenshots
 
