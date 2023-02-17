@@ -3,6 +3,7 @@ import React from "react";
 import Header from "./components/Header";
 import Section from "./components/Section";
 import Navbar from "./components/Navbar";
+import Footer from "./components/Footer";
 
 // App function declaration 
 function App() {
@@ -12,6 +13,7 @@ function App() {
       <Navbar />
 
       <Section />
+      <Footer />
     </div>
   );
 }
