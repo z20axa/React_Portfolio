@@ -1,0 +1,48 @@
+.projects h2 {
+    margin-bottom: 10px;
+    font-size: 36px;
+}
+
+/* Applying flexbox positition to the images */
+.projects {
+    margin-bottom: 20px;
+    background-color: #0072bb;
+    color: #ffffff;
+    font-size: 22px;
+    display: flex;
+    padding: 10px;
+    text-align: center;
+    border-style: solid;
+    border-width: 5px;
+    justify-content: space-evenly;
+    list-style-type: none;
+    flex-wrap: wrap;
+}
+
+/* Adding headings to the project images */
+.projects header {
+    text-align: center;
+    padding: 20px;
+    text-align: center;
+    background: #13293d;
+    color: #fff;
+    border-style: solid;
+    width: 500px;
+  }
+
+/* Setting size for the images */
+img {
+    width: 300px;
+}
+
+/* Style rules for project images container */
+#projectsImgContainer {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.figureContainer {
+    margin: 10px;
+}

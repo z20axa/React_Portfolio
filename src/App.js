@@ -1,9 +1,9 @@
 // modules/packages imports
 import React from "react";
 import Header from "./components/Header";
-import Header from "./components/AboutMe";
-import Section from "./components/Section";
+import AboutMe from "./components/AboutMe";
 import Footer from "./components/Footer";
+import Projects from "./components/Projects";
 
 // App function declaration 
 function App() {
@@ -11,7 +11,7 @@ function App() {
     <div>
       <Header />
       <AboutMe />
-      <Section />
+      <Projects />
       <Footer />
     </div>
   );
